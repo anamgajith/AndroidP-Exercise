@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:id="@+id/pay_root"
+    android:background="@drawable/round_background">
+
+    <ImageView
+        android:id="@+id/pay_image"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/payment"
+        android:layout_margin="10dp"/>
+
+    <TextView
+        android:id="@+id/pay_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="PLEASE COMPLETE YOUR PAYMENT"
+        android:textColor="#03000A"/>
+
+</LinearLayout>
