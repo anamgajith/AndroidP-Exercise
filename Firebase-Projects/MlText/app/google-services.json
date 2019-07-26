@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "125369843286",
+    "firebase_url": "https://rockpaper-7d340.firebaseio.com",
+    "project_id": "rockpaper-7d340",
+    "storage_bucket": "rockpaper-7d340.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125369843286:android:8b3bebacb7da9c6f",
+        "android_client_info": {
+          "package_name": "com.anamgajith.mltext"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "125369843286-gmslr9hlve98prb78416n7l2dcblshin.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.anamgajith.mltext",
+            "certificate_hash": "2b90e4b1cbff1df55d04155c823df3da7be0349b"
+          }
+        },
+        {
+          "client_id": "125369843286-7kbv4141i06af56ovrkmrhoptp6rp2ia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaBIQADp2gvoARDXjDleJpldEgmjrXgn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "125369843286-7kbv4141i06af56ovrkmrhoptp6rp2ia.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
